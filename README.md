@@ -13,4 +13,3 @@ Design Requirements:
 1.	The system must be designed and implemented with Client/Server model.
 2.	GUI front-end should be developed with Java Swing, and MySQL database is strongly recommended.
 3.	The system should be able to check the data validity when user enters information.
-4.	Write project report correctly in accordance with report template.
